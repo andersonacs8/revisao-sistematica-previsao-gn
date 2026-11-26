@@ -1,0 +1,7 @@
+*.pdf
+!figuras/fig_prisma.pdf
+resultados/
+.ipynb_checkpoints/
+__pycache__/
+~$*
+.DS_Store
