@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "Se usar estes dados ou este código, cite o artigo e este repositório."
+title: "Existe um método superior para prever a demanda de gás natural? Consenso e comparabilidade em uma revisão sistemática – dados e código"
+type: dataset
+authors:
+  - family-names: "Silva"
+    given-names: "Anderson"
+    affiliation: "Universidade Federal de Minas Gerais"
+    orcid: "https://orcid.org/0000-0001-7349-453X"
+
+  - family-names: "Becho"
+    given-names: "Juliano"
+    affiliation: "Universidade Federal de Minas Gerais"
+    orcid: "https://orcid.org/0000-0002-9822-754X"
+
+version: "1.0"
+date-released: "2026-11-26"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/andersonacs8/revisao-sistematica-previsao-gn"
+keywords:
+  - previsão de demanda
+  - gás natural
+  - revisão sistemática
+  - PRISMA 2020
+  - reprodutibilidade
