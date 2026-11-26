@@ -34,4 +34,6 @@ Código (`notebooks/` e `figuras/*.py`): licença MIT, ver `LICENSE`. Dados, pro
 
 ## Como citar
 
-Ver `CITATION.cff`. O DOI do Zenodo será incluído aqui após a publicação da primeira versão.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24561421.svg)](https://doi.org/10.5281/zenodo.24561421)
+
+Silva, A. e Becho, J. (2026). *Existe um método superior para prever a demanda de gás natural? Consenso e comparabilidade em uma revisão sistemática – dados e código* (versão 1.0). Zenodo. https://doi.org/10.5281/zenodo.24561421
